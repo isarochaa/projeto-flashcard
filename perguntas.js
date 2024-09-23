@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Matemática',
-    'Qual o valor de x na equação (2x + 3 = 9?',
+    'Qual o valor de x na equação (2x + 3 = 9?)',
     'x = 3'
 )
 
